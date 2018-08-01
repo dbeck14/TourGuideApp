@@ -1,0 +1,65 @@
+<resources>
+    <!-- Title for the application.-->
+    <string name="app_name">Pittsburgh</string>
+
+    <!-- Category name for restaurants -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for universities-->
+    <string name="category_universities">Universities</string>
+
+    <!-- Category name for parks -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for museums -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Descriptions of parks -->
+    <string name="description_schenley">Scenic views in Oakland</string>
+    <string name="description_mellon">Great playgrounds in Point Breeze</string>
+    <string name="description_frick">Idyllic retreat bordering Squirrel Hill</string>
+    <string name="description_point">Majestic fountain on the Three Rivers</string>
+
+    <!-- Descriptions of universities -->
+    <string name="description_pitt">Large public school in Oakland</string>
+    <string name="description_duq">Traditional Catholic university</string>
+    <string name="description_chatham">Historical female college</string>
+    <string name="description_cmu">Infamous tech hub of Pennsylvania</string>
+
+    <!-- Descriptions of restaurants -->
+    <string name="description_colombian">Homestyle Colombian favorites found</string>
+    <string name="description_bento">Hearty bento in Oakland</string>
+    <string name="description_sushi">Excellent sushi options in Shadyside</string>
+    <string name="description_curry">Thai delights on Murray Avenue</string>
+
+    <!-- Descriptions of museums -->
+    <string name="description_fort">Abundance of colonial artifacts</string>
+    <string name="description_warhol">Flashy pop art from 20th century</string>
+    <string name="description_cmoa">Interactive displays for all ages</string>
+    <string name="description_heinz">Plenty of regional memorabilla</string>
+
+    <!-- Names of parks -->
+    <string name="name_schenley">Schenely Park</string>
+    <string name="name_mellon">Mellon Park</string>
+    <string name="name_frick">Frick Park</string>
+    <string name="name_point">Point State Park</string>
+
+    <!-- Names of universities -->
+    <string name="name_pitt">University of Pittsburgh</string>
+    <string name="name_duq">Duquesne University</string>
+    <string name="name_chatham">Chatham University</string>
+    <string name="name_cmu">Carnegie Mellon University</string>
+
+    <!-- Names of restaurants -->
+    <string name="name_colombian">The Colombian Spot</string>
+    <string name="name_bento">Oishii Bento</string>
+    <string name="name_sushi">Sushi Too</string>
+    <string name="name_curry">Curry on Murray</string>
+
+    <!-- Names of museums -->
+    <string name="name_fort">Fort Pitt Museum</string>
+    <string name="name_warhol">Andy Warhol Museum</string>
+    <string name="name_cmoa">Carnegie Museum of Art</string>
+    <string name="name_heinz">Heinz History Center</string>
+
+</resources>
